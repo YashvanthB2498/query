@@ -20,4 +20,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: yashvanth24/micro-services:tagname
+          tags: yashvanth24/micro-services:query-latest 
